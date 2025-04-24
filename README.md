@@ -1,6 +1,8 @@
-# Majora's Mask: Recompiled Mod Template
+# Majora's Mask: Recompiled D-Pad Mod
 
-This is an example mod for Majora's Mask: Recompiled that can be used as a template for creating mods. It has a basic build system, headers, sample code, and a mod config toml.
+This is a mod that adds a D-Pad to the HUD for Majora's Mask: Recompiled. The D-Pad lets you activate the transformation masks and the Ocarina of Time without needing to bind them to the C buttons.
+
+This mod was originally part of the Majora's Mask: Recompiled project itself, but has been moved to a mod so it can be turned off to allow mod developers to make their own D-Pad mods with different functionality. This mod is provided as a built-in mod in the project.
 
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
